@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umar Raza</h1>
+<h1 align="center">Hi 👋, I'm M Umar Raza</h1>
 <h3 align="center">A passionate software engineer from Pakistan</h3>
 
 <p align="center">
@@ -9,10 +9,9 @@
 
 - 🎓 I’m currently pursuing my degree in Software Engineering
 - 💻 Passionate about Full Stack Development  
-- 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **Computer Networks and Data Science**
-- 🤝 I’m looking to collaborate on **Web and Java related projects**
-- 👨‍💻 All of my projects are available at [[github.com/umarraza89](https://github.com/umarraza89)](https://github.com/umarraza985)]
+- 🌱 I’m currently learning ** Data Science**
+- 🤝 I’m looking to collaborate on **Web,Full-Stack and Java related projects**
+- 👨‍💻 All of my projects are available at https://github.com/umarraza985
 - 📫 How to reach me: **umereng90@gmail.com**
 
 ---
